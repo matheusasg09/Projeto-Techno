@@ -18,7 +18,7 @@
 
 ## ◾ Projeto
 
-O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro. O principal intuito era não usar nenhuma biblioteca ou framework para treinar tecnicas de CSS e Javascript.
+O projeto Techno foi feito utilizando apenas o CDN do Vue.js. O intuito foi conhecer tudo quer é possivel sem intalar o CLI do Vue.js.
 
 #### Visitar o site: [Techno.com](https://google.com)
 
